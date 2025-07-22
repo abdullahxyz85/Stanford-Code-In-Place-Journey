@@ -2,7 +2,7 @@
   <h1> Stanford Code in Place 2025 - Section Leader Repository </h1>
 </div>
 
-Hello! I'm **Saif Ur Rasool**, the **Section Leader** for **Stanford Code in Place 2025**. This repository is created for my section to organize and share all course-related content, assignments, and resources. I’m excited to work with all of you as we dive into the fundamentals of computer programming!
+Hello! I'm **Abdullah Jameel**, the **Section Leader** for **Stanford Code in Place 2025**. This repository is created for my section to organize and share all course-related content, assignments, and resources. I’m excited to work with all of you as we dive into the fundamentals of computer programming!
 
 ---
 
@@ -54,7 +54,7 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 
 ## 🎓 TeachNow Sessions Impact – Stanford Code in Place
 
-As part of Stanford University’s **Code in Place** program, I’ve conducted **3 personalized TeachNow sessions** — designed to provide learners with one-on-one support for debugging, problem-solving, and concept mastery in Python.
+As part of Stanford University’s **Code in Place** program, I’ve conducted **250+ personalized TeachNow sessions** — designed to provide learners with one-on-one support for debugging, problem-solving, and concept mastery in Python.
 
 These sessions aim to create a collaborative, encouraging learning environment that helps students gain confidence and make tangible progress in their coding journey.
 
@@ -64,7 +64,7 @@ These sessions aim to create a collaborative, encouraging learning environment t
 ## 🏅 Stanford Code in Place 2025 – Official Credential
 
 🎓 **Role:** Section Leader  
-🌍 **University:** Islamia University of Bahawalpur  
+🌍 **University:** Virtual University Of Pakistan  
 💡 **Taught Students From:** USA, UK, Canada, Romania, Taiwan, China, India, Pakistan, Kenya, and Vietnam  
 🖥️ **Course:** [CS106A - Programming Methodologies (Python)](https://codeinplace.stanford.edu)  
 👩‍🏫 **Platform:** Stanford Online
@@ -76,20 +76,20 @@ These sessions aim to create a collaborative, encouraging learning environment t
 - ✅ Mentored a global classroom of **diverse students** in Python fundamentals  
 - ✅ Taught **6 weeks** of content including: Karel, graphics, control flow, functions, lists, dictionaries & problem-solving  
 - ✅ Delivered personalized 1:1 **TeachNow sessions** for debugging, logic building, and hands-on projects  
-- ✅ Maintained a detailed [GitHub repository](https://github.com/SaifRasool92/Code_In_Place-25) with solutions, recaps, and weekly progress  
+- ✅ Maintained a detailed [GitHub repository](https://github.com/abdullahxyz85/Stanford-Code-In-Place-Journey) with solutions, recaps, and weekly progress  
 - ✅ Collaborated with **Stanford Head TAs Emma Wong, Maria Clarissa**, and global teaching peers  
 
 ---
 
 ### 🎖️ Verified Digital Credential  
-🔗 [Click here to view Stanford Digital Badge & Credential](https://digitalcredential.stanford.edu/check/09E8FB28F122CE1CB9A59536C67B8BE8508A5898A71233B6641137391929242FSm9lSGxRQXdrNk0zc215OFdac2Z6aGFTNFhTTC84VkNCbWZVb3NYOXZHQ1liQlVN)
+🔗 [Click here to view Stanford Digital Badge & Credential](https://digitalcredential.stanford.edu/check/C812998A7675C7B2FF153C31044B68ECD26AEB22C4C5B90038929D863B34CE6DRkluZXowUGNBeWlWVWRCeEhZU1A2OTlDMjBuVWE4ZXNod0wvNmxiNTBRZkd4OEFL)
 
 ---
 
 
 <h2>📜 Certificate of Completion</h2>
 
-<img src="https://drive.google.com/uc?export=view&id=1E4TbjTDda6FTiHY4KM0U356z54kg27sm" alt="Stanford Verified Credential" width="600" />
+<img src="https://digitalcredential.stanford.edu/check/C812998A7675C7B2FF153C31044B68ECD26AEB22C4C5B90038929D863B34CE6DRkluZXowUGNBeWlWVWRCeEhZU1A2OTlDMjBuVWE4ZXNod0wvNmxiNTBRZkd4OEFL" alt="Stanford Verified Credential" width="600" />
 
 
 ---
@@ -124,7 +124,7 @@ _(This list will be updated as we progress through the course.)_
 
 ## 📅 Section Details
 
-- **Section Time:** Every Friday at **9 PM (Pakistan Standard Time - PST)**
+- **Section Time:** Every Friday at **10 PM (Pakistan Standard Time - PST)**
 - **Timezone Info:**
   - **PST (Pakistan Standard Time):** 9:00 PM
   - **PDT (Pacific Daylight Time):** 11:00 AM
@@ -138,8 +138,8 @@ _(This list will be updated as we progress through the course.)_
 
 Feel free to reach out if you need any assistance!
 
-- **Email:** [rasoolsaif24@gmail.com](mailto:tariqeesha321@gmail.com)
-- **LinkedIn:** [Saif Ur Rasool - LinkedIn](https://www.linkedin.com/in/saif-ur-rasool/)
+- **Email:** [abdullahxyz85@gmail.com](mailto:abdullahxyz85@gmail.com)
+- **LinkedIn:** [Abdullah Jameel - LinkedIn](https://www.linkedin.com/in/abdullahjameel94/)
 
 ---
 
@@ -180,5 +180,5 @@ Thank you for being part of **Stanford Code in Place 2025**! Let’s make the mo
 
 Happy Coding! ✨
 
-**Saif Ur Rasool**  
+**Abdullah Jameel**  
 Section Leader | **Stanford Code in Place 2025**
