@@ -89,7 +89,7 @@ These sessions aim to create a collaborative, encouraging learning environment t
 
 <h2>📜 Certificate of Completion</h2>
 
-<img src="https://drive.google.com/file/d/13wJYXX2A0zjx0L3a_9hDmjMdtVRaguEl/view" width="600" />
+<img src="Stanford-Code-In-Place-Certificate.png" width="600" />
 
 
 ---
