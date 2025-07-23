@@ -89,7 +89,7 @@ These sessions aim to create a collaborative, encouraging learning environment t
 
 <h2>📜 Certificate of Completion</h2>
 
-<img src="https://digitalcredential.stanford.edu/check/C812998A7675C7B2FF153C31044B68ECD26AEB22C4C5B90038929D863B34CE6DRkluZXowUGNBeWlWVWRCeEhZU1A2OTlDMjBuVWE4ZXNod0wvNmxiNTBRZkd4OEFL" alt="Stanford Verified Credential" width="600" />
+<img src="https://drive.google.com/file/d/13wJYXX2A0zjx0L3a_9hDmjMdtVRaguEl/view" width="600" />
 
 
 ---
